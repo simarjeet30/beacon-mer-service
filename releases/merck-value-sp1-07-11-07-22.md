@@ -1,0 +1,37 @@
+# Merck Value SP1 (07/11-07/22)
+
+Jira sprint carrying 33 issue(s).
+
+- MER-1 — The system allow user to create and save Tiered based discount structure templates
+- MER-2 — UI: Design and functional changes - Add dropdown for select method
+- MER-3 — UI : Design and functional changes - Add the tiered market share template in select contract structure template
+- MER-4 — DB : DB changes - Adding column and inserting new values.
+- MER-5 — UI & DB : Changes for Apply and Save Template button logic for tiered market share
+- MER-6 — UI & DB: Changes in scenario analysis page - Calculation
+- MER-7 — Understanding Requirement and analysis of code components
+- MER-8 — UI: Add dropdown to select method
+- MER-12 — UI & DB : Update save as template logic tiered market share
+- MER-13 — UI : Add the tiered market share template in select contract structure template
+- MER-14 — UI & DB : Update apply logic with tiered market share
+- MER-15 — DB : Need to add one more column to db table contract_structure_template -> seletedMethod type string
+- MER-16 — DB : Insert some default template values for all the market and contract types for the -> selected method -> methods will be(Tiered Market Share,Number of Evaluators)
+- MER-17 — UI: changes in Scenario analysis screen for getting new template list in dropdown
+- MER-18 — UI & DB: logic calculation on scenario analysis screen for tiered market templates
+- MER-19 — UI: Add save button and dropdown for listing templates.
+- MER-20 — UI: on selected template table to load with new template json
+- MER-21 — UI: on selected template table to load with new template json
+- MER-22 — DB & BE: create table  for  saving templates and stored procedure for get template list and save new template
+- MER-23 — UI: new dropdown in scenario analysis screen for selecting different alignment template
+- MER-24 — UI & DB : logic calculation on scenario analysis screen for alignment templates.
+- MER-25 — DB : Adding new market into db and insert values into db table
+- MER-26 — Load prod data on stage
+- MER-27 — Revisit KTs
+- MER-28 — Remove VBC contract type from create scenario page UI
+- MER-29 — Retain the user applied filter values like applied alignments
+- MER-30 — The system must allow the user to select one alignment as a "Deal" and another as the "No Deal" and allow the user to compare the delta of the following metrics for each manufacturer
+- MER-33 — Deletion of Product
+- MER-35 — Addition of Product
+- MER-36 — Rename Manufacturer - Sanofi/Others
+- MER-37 — Create UI component for selecting reference contract
+- MER-38 — Create table component for delta values
+- MER-39 — Update the calculation for delta
