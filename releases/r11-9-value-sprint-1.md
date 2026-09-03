@@ -18,3 +18,4 @@ Jira sprint carrying 47 issue(s).
 - MER-1328 — API Changes - Status API WebSocket Migration
 - MER-1329 — Business logic for ppd and cst metrics calculations
 - MER-1330 — Stored Procedure Changes - PPD Metrics
+- MER-1331 — API Changes - PPD Metrics
