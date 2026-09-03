@@ -47,3 +47,4 @@ Jira sprint carrying 47 issue(s).
 - MER-1397 — Verify Copy after Reset
 - MER-1398 — Verify Old Scenario in Customer POV
 - MER-1399 — Verify Account dropdown
+- MER-1400 — Verify Contract Structure Template
