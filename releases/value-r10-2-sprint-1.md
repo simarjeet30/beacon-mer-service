@@ -14,3 +14,4 @@ Jira sprint carrying 37 issue(s).
 - MER-644 — User Stories / Technical Stories - Need Product Group & Specialty in Export
 - MER-653 — User Stories / Technical Stories - Unable to search by Contract Structure Template
 - MER-654 — Analysis & Low Level Design - Unable to search by contract structure template
+- MER-656 — User Stories / Technical Stories -  contract comparison should cascade over to Account Summary
