@@ -17,3 +17,4 @@ Jira sprint carrying 33 issue(s).
 - MER-16 — DB : Insert some default template values for all the market and contract types for the -> selected method -> methods will be(Tiered Market Share,Number of Evaluators)
 - MER-17 — UI: changes in Scenario analysis screen for getting new template list in dropdown
 - MER-18 — UI & DB: logic calculation on scenario analysis screen for tiered market templates
+- MER-19 — UI: Add save button and dropdown for listing templates.
