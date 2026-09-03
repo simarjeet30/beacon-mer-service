@@ -21,3 +21,4 @@ Jira sprint carrying 37 issue(s).
 - MER-724 — High Level Requirements - Need Product Group & Specialty in Export
 - MER-726 — High Level Requirements - Blanks Observed in CST when Criteris is deleted
 - MER-727 — Analysis & Low Level Design - Frontend - Blanks Observed in CST
+- MER-728 — High Level Requirements - When we change the end date in calender
