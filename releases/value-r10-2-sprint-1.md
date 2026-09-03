@@ -8,3 +8,4 @@ Jira sprint carrying 37 issue(s).
 - MER-636 — High Level Requirements - Warning Notification
 - MER-637 — Analyis & Low Level Design - Warning Notification
 - MER-638 — User Stories / Technical Stories - Contract Period should not include Day
+- MER-640 — High Level Requirements - Contract Period should not include day
