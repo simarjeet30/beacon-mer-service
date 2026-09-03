@@ -10,3 +10,4 @@ Jira sprint carrying 47 issue(s).
 - MER-1320 — Business Logic for market agggregation rules - view by market
 - MER-1321 — Stored Procedure Changes - Market Aggregation
 - MER-1322 — view by market-Api Changes
+- MER-1323 — UX - contract and alignment setup flow
