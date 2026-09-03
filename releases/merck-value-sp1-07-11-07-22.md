@@ -14,3 +14,4 @@ Jira sprint carrying 33 issue(s).
 - MER-13 — UI : Add the tiered market share template in select contract structure template
 - MER-14 — UI & DB : Update apply logic with tiered market share
 - MER-15 — DB : Need to add one more column to db table contract_structure_template -> seletedMethod type string
+- MER-16 — DB : Insert some default template values for all the market and contract types for the -> selected method -> methods will be(Tiered Market Share,Number of Evaluators)
