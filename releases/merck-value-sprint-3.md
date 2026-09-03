@@ -42,3 +42,4 @@ Jira sprint carrying 50 issue(s).
 - MER-374 — Incorrect button name for Add Contract Template pop up
 - MER-375 — Actual values in the and discount text box of Create product group modal
 - MER-376 — Product placeholder doesn't get updated when user changes Manufacturer
+- MER-377 — Add a meaningful message for Delete Criteria Pop up and update incorrect header name
