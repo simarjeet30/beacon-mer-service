@@ -12,3 +12,4 @@ Jira sprint carrying 47 issue(s).
 - MER-1322 — view by market-Api Changes
 - MER-1323 — UX - contract and alignment setup flow
 - MER-1324 — DB Table Creation - Contract Alignment Scenario
+- MER-1325 — Stored Procedure Changes - Contract Alignment Scenario
