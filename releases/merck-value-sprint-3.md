@@ -12,3 +12,4 @@ Jira sprint carrying 50 issue(s).
 - MER-297 — API Integration-Part 1
 - MER-298 — getWACContractTemplateDropdown
 - MER-299 — getWACContractTemplateDetails
+- MER-300 — GetManufacturer
