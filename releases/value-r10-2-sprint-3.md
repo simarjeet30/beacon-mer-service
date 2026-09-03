@@ -17,3 +17,4 @@ Jira sprint carrying 37 issue(s).
 - MER-813 — API Build-Global Inputs - Contract Structures - Save as Template, duplicates the template.
 - MER-814 — Unit Testing-Global Inputs - Contract Structures - Save as Template, duplicates the template.
 - MER-815 — Deployment (Dev)-Global Inputs - Contract Structures - Save as Template, duplicates the template.
+- MER-816 — UI Build-Unable to search by Contract Structure Template & Contract Offered in the Account Summary.
