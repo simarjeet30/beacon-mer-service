@@ -14,3 +14,4 @@ Jira sprint carrying 37 issue(s).
 - MER-810 — Unit Testing-Need Product Group & Specialty in Export
 - MER-811 — Deployment (Dev)-Need Product Group & Specialty in Export
 - MER-812 — UI Build-Global Inputs - Contract Structures - Save as Template, duplicates the template.
+- MER-813 — API Build-Global Inputs - Contract Structures - Save as Template, duplicates the template.
