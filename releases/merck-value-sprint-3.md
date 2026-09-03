@@ -20,3 +20,4 @@ Jira sprint carrying 50 issue(s).
 - MER-329 — Contract Structure Layout
 - MER-331 — Contract Structure Functionality- Update the Template and Save the template
 - MER-334 — Current Alignment Functionality- Populate with Data
+- MER-338 — Crud Operation and copy Scenario Functionality
