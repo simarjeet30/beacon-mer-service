@@ -39,3 +39,4 @@ Jira sprint carrying 47 issue(s).
 - MER-1389 — Verify Potential Product dropdown
 - MER-1390 — Verify Market Share update
 - MER-1391 — Verify Total Market Share
+- MER-1392 — Verify Product level calculations
