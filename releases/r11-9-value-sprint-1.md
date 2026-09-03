@@ -25,3 +25,4 @@ Jira sprint carrying 47 issue(s).
 - MER-1342 — API Changes - CST Product Filtering
 - MER-1343 — UI Changes - CST Product Filtering
 - MER-1350 — Stored Procedure Changes - Product Group Sequencing
+- MER-1351 — API Changes - Product Group Ordering
