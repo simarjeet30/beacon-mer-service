@@ -8,3 +8,4 @@ Jira sprint carrying 50 issue(s).
 - MER-293 — Expand All and minimize all
 - MER-294 — Change History Modal Popup
 - MER-295 — Grid Populate on Change History
+- MER-296 — Add Apply function
