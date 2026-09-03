@@ -23,3 +23,4 @@ Jira sprint carrying 29 issue(s).
 - MER-784 — Deployment (Dev)- Potential Selection dropdown boxes are to be expanded
 - MER-785 — UI Build- Expand columns to view the product in its entirety in the Current Alignment screen
 - MER-786 — Unit Testing- Expand columns to view the product in its entirety in the Current Alignment screen
+- MER-787 — Deployment (Dev)- Expand columns to view the product in its entirety in the Current Alignment screen
