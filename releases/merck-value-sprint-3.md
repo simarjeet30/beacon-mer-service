@@ -32,3 +32,4 @@ Jira sprint carrying 50 issue(s).
 - MER-360 — Negative WAC % is not captured in the WAC History
 - MER-361 — Current Alignment | Incorrect API Response
 - MER-362 — UI issues | Current Alignment screen
+- MER-363 — Position of Copy and history button is not static
