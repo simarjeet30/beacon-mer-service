@@ -18,3 +18,4 @@ Jira sprint carrying 29 issue(s).
 - MER-779 — UI Build- Filtering by Product Name in Customer POV
 - MER-780 — Unit Testing- Filtering by Product Name in Customer POV
 - MER-781 — Deployment (Dev)- Filtering by Product Name in Customer POV
+- MER-782 — UI Build- Potential Selection dropdown boxes are to be expanded
