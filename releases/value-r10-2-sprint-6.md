@@ -6,3 +6,4 @@ Jira sprint carrying 20 issue(s).
 - MER-1088 — Existing Bug - Create Scenario- Contract Comparison- Contract template dropdown are not resetting properly and displaying selected value of unsaved created scenario.
 - MER-1115 — Exisiting Bug : Overlap of tooltips on the headers of the current alignment screen. Heading with edit icon and sorting icon are having overlap in their tooltips.
 - MER-1125 — Customer POV showing multiple record when WAC or alignment template is updated on contact comparison
+- MER-1149 — Existing bug-Current Alignment Update- Data is reflected for old base alignment with column updated as for Current base alignment.
