@@ -25,3 +25,4 @@ Jira sprint carrying 50 issue(s).
 - MER-349 — UX/UI Required Changes- Feedbacks(Internal demo - 09/05/2024)
 - MER-350 — Filter modal doesn't fit the screen
 - MER-351 — Default WAC dropdown missing from GI-WAC screen
+- MER-354 — WAC History doesn't display the correct user name
