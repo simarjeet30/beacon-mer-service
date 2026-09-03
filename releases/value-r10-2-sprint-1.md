@@ -28,3 +28,4 @@ Jira sprint carrying 37 issue(s).
 - MER-733 — High Level Requirements
 - MER-734 — User Stories / Technical Stories
 - MER-737 — High Level Requirements
+- MER-738 — User Stories / Technical Stories
