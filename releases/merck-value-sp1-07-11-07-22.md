@@ -12,3 +12,4 @@ Jira sprint carrying 33 issue(s).
 - MER-8 — UI: Add dropdown to select method
 - MER-12 — UI & DB : Update save as template logic tiered market share
 - MER-13 — UI : Add the tiered market share template in select contract structure template
+- MER-14 — UI & DB : Update apply logic with tiered market share
