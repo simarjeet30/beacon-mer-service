@@ -36,3 +36,4 @@ Jira sprint carrying 50 issue(s).
 - MER-364 — Non- admin user can edit Alignment template
 - MER-366 — Blank Values in Contract Template Dropdown
 - MER-367 — Copy functionality missing from Contract Structures screen
+- MER-368 — User unable to delete any Criteria
