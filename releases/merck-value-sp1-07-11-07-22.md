@@ -16,3 +16,4 @@ Jira sprint carrying 33 issue(s).
 - MER-15 — DB : Need to add one more column to db table contract_structure_template -> seletedMethod type string
 - MER-16 — DB : Insert some default template values for all the market and contract types for the -> selected method -> methods will be(Tiered Market Share,Number of Evaluators)
 - MER-17 — UI: changes in Scenario analysis screen for getting new template list in dropdown
+- MER-18 — UI & DB: logic calculation on scenario analysis screen for tiered market templates
