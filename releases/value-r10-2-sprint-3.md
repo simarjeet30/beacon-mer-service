@@ -33,3 +33,4 @@ Jira sprint carrying 37 issue(s).
 - MER-829 — Unit Testing-Blanks observed in CST when criteria is deleted from a product group and another criteria is added
 - MER-830 — Unit Testing-Blanks observed in CST when criteria is deleted from a product group and another criteria is added
 - MER-831 — Deployment (Dev)-Blanks observed in CST when criteria is deleted from a product group and another criteria is added
+- MER-832 — Onboarding- Maynak-Onboarding the testing team
