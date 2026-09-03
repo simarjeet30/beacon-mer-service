@@ -19,3 +19,4 @@ Jira sprint carrying 37 issue(s).
 - MER-662 — User Stories / Technical Stories - Blanks observed in CST when criteria is deleted from a product group and another criteria is added
 - MER-681 — High Level Requirements - Expand columns to view the product
 - MER-724 — High Level Requirements - Need Product Group & Specialty in Export
+- MER-726 — High Level Requirements - Blanks Observed in CST when Criteris is deleted
