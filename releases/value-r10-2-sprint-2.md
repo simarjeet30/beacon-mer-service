@@ -26,3 +26,4 @@ Jira sprint carrying 29 issue(s).
 - MER-787 — Deployment (Dev)- Expand columns to view the product in its entirety in the Current Alignment screen
 - MER-788 — UI Build- Accounts not in alpha order for Steve when creating a new scenario
 - MER-789 — API Build- Accounts not in alpha order for Steve when creating a new scenario
+- MER-790 — UI Build- The display of the Account name box needs to be expanded to show the full typed value in the search box
