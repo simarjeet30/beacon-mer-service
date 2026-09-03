@@ -17,3 +17,4 @@ Jira sprint carrying 20 issue(s).
 - MER-1291 — Customer POV API not being called after returning from the edit scenario screen.
 - MER-1292 — UAT | Customer POV
 - MER-1293 — UAT | Global Inputs - Contract Structures/Account Summary
+- MER-1294 — UAT | Customer POV - II
