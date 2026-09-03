@@ -31,3 +31,4 @@ Jira sprint carrying 37 issue(s).
 - MER-827 — UI Build-Blanks observed in CST when criteria is deleted from a product group and another criteria is added- Part - 2
 - MER-828 — API Build-Blanks observed in CST when criteria is deleted from a product group and another criteria is added - Part - 2
 - MER-829 — Unit Testing-Blanks observed in CST when criteria is deleted from a product group and another criteria is added
+- MER-830 — Unit Testing-Blanks observed in CST when criteria is deleted from a product group and another criteria is added
