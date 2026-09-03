@@ -25,3 +25,4 @@ Jira sprint carrying 29 issue(s).
 - MER-786 — Unit Testing- Expand columns to view the product in its entirety in the Current Alignment screen
 - MER-787 — Deployment (Dev)- Expand columns to view the product in its entirety in the Current Alignment screen
 - MER-788 — UI Build- Accounts not in alpha order for Steve when creating a new scenario
+- MER-789 — API Build- Accounts not in alpha order for Steve when creating a new scenario
