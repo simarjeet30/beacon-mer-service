@@ -25,3 +25,4 @@ Jira sprint carrying 37 issue(s).
 - MER-821 — API Build- what is on contract comparison should cascade over to Account Summary.  Should only see the ones selected and not all types (VICs)
 - MER-822 — Deployment (Dev)- what is on contract comparison should cascade over to Account Summary.  Should only see the ones selected and not all types (VICs)
 - MER-823 — UI Build-When we change the End Date in the calendar then changed  month next to changed date becomes disabled and user doesn't have option to select default date again
+- MER-824 — API Build-When we change the End Date in the calendar then changed  month next to changed date becomes disabled and user doesn't have option to select default date again
