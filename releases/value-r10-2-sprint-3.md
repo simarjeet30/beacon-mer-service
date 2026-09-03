@@ -9,3 +9,4 @@ Jira sprint carrying 37 issue(s).
 - MER-805 — Deployment (Dev)-Copy button missing in the Customer POV. User should be able to copy out the Customer POV into excel and paste it all back into the UI
 - MER-806 — UI Build-Contract Period should not include day.  Currently it shows 2023-08-01 - 2024-07-01.
 - MER-807 — Unit Testing-Contract Period should not include day.  Currently it shows 2023-08-01 - 2024-07-01.
+- MER-808 — Deployment (Dev)-Contract Period should not include day.  Currently it shows 2023-08-01 - 2024-07-01.
