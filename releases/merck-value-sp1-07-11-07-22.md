@@ -30,3 +30,4 @@ Jira sprint carrying 33 issue(s).
 - MER-29 — Retain the user applied filter values like applied alignments
 - MER-30 — The system must allow the user to select one alignment as a "Deal" and another as the "No Deal" and allow the user to compare the delta of the following metrics for each manufacturer
 - MER-33 — Deletion of Product
+- MER-35 — Addition of Product
