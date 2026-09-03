@@ -38,3 +38,4 @@ Jira sprint carrying 37 issue(s).
 - MER-835 — Filtering by Product Name in Customer POV -Test Case Creation-Test Case Creation
 - MER-837 — Expand columns to view the product in its entirety in the Current Alignment screen -Test Case Creation-Test Case Creation
 - MER-996 — Customer POV- Potential MS% updated and saved but on copying old values are getting copied.
+- MER-1004 — Test ticket
