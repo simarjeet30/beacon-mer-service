@@ -45,3 +45,4 @@ Jira sprint carrying 47 issue(s).
 - MER-1395 — Verify Reset Filters
 - MER-1396 — Verify Copy Scenario
 - MER-1397 — Verify Copy after Reset
+- MER-1398 — Verify Old Scenario in Customer POV
