@@ -9,3 +9,4 @@ Jira sprint carrying 33 issue(s).
 - MER-5 — UI & DB : Changes for Apply and Save Template button logic for tiered market share
 - MER-6 — UI & DB: Changes in scenario analysis page - Calculation
 - MER-7 — Understanding Requirement and analysis of code components
+- MER-8 — UI: Add dropdown to select method
