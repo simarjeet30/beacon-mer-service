@@ -30,3 +30,4 @@ Jira sprint carrying 29 issue(s).
 - MER-791 — Unit Testing- The display of the Account name box needs to be expanded to show the full typed value in the search box
 - MER-792 — Deployment (Dev)- The display of the Account name box needs to be expanded to show the full typed value in the search box
 - MER-793 — UI Build- Blanks observed in CST when criteria is deleted from a product group and another criteria is added
+- MER-794 — API Build- Blanks observed in CST when criteria is deleted from a product group and another criteria is added
