@@ -11,3 +11,4 @@ Jira sprint carrying 37 issue(s).
 - MER-640 — High Level Requirements - Contract Period should not include day
 - MER-642 — User Stories / Technical Stories - Accounts not in alpha order for Steve when creating a new scenario
 - MER-643 — High Level Requirements - Accounts not in alpha order for Steve when creating a new scenario
+- MER-644 — User Stories / Technical Stories - Need Product Group & Specialty in Export
