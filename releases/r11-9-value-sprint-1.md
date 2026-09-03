@@ -32,3 +32,4 @@ Jira sprint carrying 47 issue(s).
 - MER-1382 — Verify changing Alignment in Customer POV Screen.
 - MER-1383 — Verify default Alignment in Customer POV Screen.
 - MER-1384 — Verify Discount (%) input in Customer POV
+- MER-1385 — Verify decimal Discount in Customer POV
