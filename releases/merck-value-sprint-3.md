@@ -22,3 +22,4 @@ Jira sprint carrying 50 issue(s).
 - MER-334 — Current Alignment Functionality- Populate with Data
 - MER-338 — Crud Operation and copy Scenario Functionality
 - MER-347 — Future WAC column should be a textbox
+- MER-349 — UX/UI Required Changes- Feedbacks(Internal demo - 09/05/2024)
