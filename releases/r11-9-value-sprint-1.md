@@ -4,3 +4,4 @@ Jira sprint carrying 47 issue(s).
 
 - MER-1314 — VAPT Security issue resolution ( UI Library Updates)
 - MER-1315 — VAPT Security issue resolution ( BE Library Updates)
+- MER-1316 — VAPT Security issue resolution ( URL Sanitization)
