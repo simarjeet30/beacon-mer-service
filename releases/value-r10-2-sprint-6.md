@@ -18,3 +18,4 @@ Jira sprint carrying 20 issue(s).
 - MER-1292 — UAT | Customer POV
 - MER-1293 — UAT | Global Inputs - Contract Structures/Account Summary
 - MER-1294 — UAT | Customer POV - II
+- MER-1295 — Customer POV-3
