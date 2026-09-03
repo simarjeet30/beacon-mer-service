@@ -21,3 +21,4 @@ Jira sprint carrying 37 issue(s).
 - MER-817 — API Build-Unable to search by Contract Structure Template & Contract Offered in the Account Summary.
 - MER-818 — Unit Testing-Unable to search by Contract Structure Template & Contract Offered in the Account Summary.
 - MER-819 — Deployment (Dev)-Unable to search by Contract Structure Template & Contract Offered in the Account Summary.
+- MER-820 — UI Build- what is on contract comparison should cascade over to Account Summary.  Should only see the ones selected and not all types (VICs)
