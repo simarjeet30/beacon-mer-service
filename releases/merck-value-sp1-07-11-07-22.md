@@ -18,3 +18,4 @@ Jira sprint carrying 33 issue(s).
 - MER-17 — UI: changes in Scenario analysis screen for getting new template list in dropdown
 - MER-18 — UI & DB: logic calculation on scenario analysis screen for tiered market templates
 - MER-19 — UI: Add save button and dropdown for listing templates.
+- MER-20 — UI: on selected template table to load with new template json
