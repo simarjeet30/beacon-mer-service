@@ -27,3 +27,4 @@ Jira sprint carrying 50 issue(s).
 - MER-351 — Default WAC dropdown missing from GI-WAC screen
 - MER-354 — WAC History doesn't display the correct user name
 - MER-355 — UI Issues | WAC Screen
+- MER-356 — Search Functionality missing in the Landing screen
