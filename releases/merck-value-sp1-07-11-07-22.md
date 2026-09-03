@@ -32,3 +32,4 @@ Jira sprint carrying 33 issue(s).
 - MER-33 — Deletion of Product
 - MER-35 — Addition of Product
 - MER-36 — Rename Manufacturer - Sanofi/Others
+- MER-37 — Create UI component for selecting reference contract
