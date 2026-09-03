@@ -29,3 +29,4 @@ Jira sprint carrying 37 issue(s).
 - MER-734 — User Stories / Technical Stories
 - MER-737 — High Level Requirements
 - MER-738 — User Stories / Technical Stories
+- MER-739 — Analysis & Low Level Design - Contract Structures - Save as Template
