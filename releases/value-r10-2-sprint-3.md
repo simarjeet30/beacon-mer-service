@@ -27,3 +27,4 @@ Jira sprint carrying 37 issue(s).
 - MER-823 — UI Build-When we change the End Date in the calendar then changed  month next to changed date becomes disabled and user doesn't have option to select default date again
 - MER-824 — API Build-When we change the End Date in the calendar then changed  month next to changed date becomes disabled and user doesn't have option to select default date again
 - MER-825 — Unit Testing-When we change the End Date in the calendar then changed  month next to changed date becomes disabled and user doesn't have option to select default date again
+- MER-826 — Deployment (Dev)-When we change the End Date in the calendar then changed  month next to changed date becomes disabled and user doesn't have option to select default date again
