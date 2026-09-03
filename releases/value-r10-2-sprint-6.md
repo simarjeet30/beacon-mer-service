@@ -15,3 +15,4 @@ Jira sprint carrying 20 issue(s).
 - MER-1288 — Existing Bug | Regression | Page Refresh on Customer POV Screen Redirects to Landing Page Without URL Update
 - MER-1290 — UAT | Discrepancy In contract period date
 - MER-1291 — Customer POV API not being called after returning from the edit scenario screen.
+- MER-1292 — UAT | Customer POV
