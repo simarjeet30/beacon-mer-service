@@ -20,3 +20,4 @@ Jira sprint carrying 47 issue(s).
 - MER-1330 — Stored Procedure Changes - PPD Metrics
 - MER-1331 — API Changes - PPD Metrics
 - MER-1332 — UI Changes - PPD Metrics Display
+- MER-1340 — UI Changes - Product Group Sequencing
