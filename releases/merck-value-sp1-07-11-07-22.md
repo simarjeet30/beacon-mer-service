@@ -27,3 +27,4 @@ Jira sprint carrying 33 issue(s).
 - MER-26 — Load prod data on stage
 - MER-27 — Revisit KTs
 - MER-28 — Remove VBC contract type from create scenario page UI
+- MER-29 — Retain the user applied filter values like applied alignments
