@@ -3,3 +3,4 @@
 Jira sprint carrying 37 issue(s).
 
 - MER-625 — User Stories / Technical Stories - Expand columns to view the product
+- MER-628 — Analysis & Low Level Design - Expand columns to view the product in its entirety in the Current Alignment screen
