@@ -36,3 +36,4 @@ Jira sprint carrying 37 issue(s).
 - MER-832 — Onboarding- Maynak-Onboarding the testing team
 - MER-833 — Onboarding- Sanchita-Onboarding the testing team
 - MER-835 — Filtering by Product Name in Customer POV -Test Case Creation-Test Case Creation
+- MER-837 — Expand columns to view the product in its entirety in the Current Alignment screen -Test Case Creation-Test Case Creation
