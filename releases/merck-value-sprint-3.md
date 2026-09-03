@@ -16,3 +16,4 @@ Jira sprint carrying 50 issue(s).
 - MER-301 — GetProduct
 - MER-302 — UpdateContractStructureTemplate
 - MER-303 — AddContractStructureTemplate
+- MER-304 — getWACChangeHistory
