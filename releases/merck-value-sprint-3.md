@@ -48,3 +48,4 @@ Jira sprint carrying 50 issue(s).
 - MER-381 — Grid of Accounts Vic Type with Action Button of Edit sites & volumes
 - MER-382 — Manually Create Accounts and Volume
 - MER-383 — MergeAccounts
+- MER-420 — Product grid not readable
