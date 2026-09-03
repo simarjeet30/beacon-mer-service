@@ -21,3 +21,4 @@ Jira sprint carrying 20 issue(s).
 - MER-1409 — Verify Financial Table updates based on Cascaded Filters
 - MER-1437 — Total Row Data Is Not Included When Copying and Pasting Data from Contract Comparison
 - MER-1450 — Verify Backward Compatibility with Older Scenarios
+- MER-1470 — Selected Alignment Template Is Not Retained When Editing an Existing Scenario
