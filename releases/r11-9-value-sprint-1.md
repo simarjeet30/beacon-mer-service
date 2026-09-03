@@ -42,3 +42,4 @@ Jira sprint carrying 47 issue(s).
 - MER-1392 — Verify Product level calculations
 - MER-1393 — Verify Total row calculation
 - MER-1394 — Verify Reset Scenario Data
+- MER-1395 — Verify Reset Filters
