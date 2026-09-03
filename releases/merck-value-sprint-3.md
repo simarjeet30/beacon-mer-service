@@ -39,3 +39,4 @@ Jira sprint carrying 50 issue(s).
 - MER-368 — User unable to delete any Criteria
 - MER-369 — Cancel button and cross icon not working for delete pop up
 - MER-370 — Add button not enabled
+- MER-374 — Incorrect button name for Add Contract Template pop up
