@@ -41,3 +41,4 @@ Jira sprint carrying 50 issue(s).
 - MER-370 — Add button not enabled
 - MER-374 — Incorrect button name for Add Contract Template pop up
 - MER-375 — Actual values in the and discount text box of Create product group modal
+- MER-376 — Product placeholder doesn't get updated when user changes Manufacturer
