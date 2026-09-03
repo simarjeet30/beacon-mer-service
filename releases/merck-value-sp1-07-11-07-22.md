@@ -34,3 +34,4 @@ Jira sprint carrying 33 issue(s).
 - MER-36 — Rename Manufacturer - Sanofi/Others
 - MER-37 — Create UI component for selecting reference contract
 - MER-38 — Create table component for delta values
+- MER-39 — Update the calculation for delta
