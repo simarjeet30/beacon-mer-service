@@ -36,3 +36,4 @@ Jira sprint carrying 47 issue(s).
 - MER-1386 — Verify zero Discount in Customer POV Screen
 - MER-1387 — Verify maximum Discount in Customer POV
 - MER-1388 — Negative Discount validation  Enter in Customer POV
+- MER-1389 — Verify Potential Product dropdown
