@@ -12,3 +12,4 @@ Jira sprint carrying 29 issue(s).
 - MER-773 — UI - Combination of multiple Performance measures under a criteria
 - MER-774 — API - Combination of multiple Performance measures under a criteria
 - MER-775 — UI - Combination of multiple Performance measures under a criteria
+- MER-776 — API - Combination of multiple Performance measures under a criteria
