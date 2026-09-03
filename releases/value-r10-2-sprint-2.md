@@ -5,3 +5,4 @@ Jira sprint carrying 29 issue(s).
 - MER-639 — Analysis & Low Level Design - Contract Period should not include day
 - MER-735 — Analysis & Low Level Design - Account Name box needs to be expended
 - MER-748 — Analysis & Low Level Design(POC for Expanding only dropdown list Data)
+- MER-753 — Analysis & Low Level Design - Product Name in Customer POV
