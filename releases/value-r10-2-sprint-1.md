@@ -13,3 +13,4 @@ Jira sprint carrying 37 issue(s).
 - MER-643 — High Level Requirements - Accounts not in alpha order for Steve when creating a new scenario
 - MER-644 — User Stories / Technical Stories - Need Product Group & Specialty in Export
 - MER-653 — User Stories / Technical Stories - Unable to search by Contract Structure Template
+- MER-654 — Analysis & Low Level Design - Unable to search by contract structure template
