@@ -21,3 +21,4 @@ Jira sprint carrying 50 issue(s).
 - MER-331 — Contract Structure Functionality- Update the Template and Save the template
 - MER-334 — Current Alignment Functionality- Populate with Data
 - MER-338 — Crud Operation and copy Scenario Functionality
+- MER-347 — Future WAC column should be a textbox
