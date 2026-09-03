@@ -3,3 +3,4 @@
 Jira sprint carrying 20 issue(s).
 
 - MER-1318 — UX- Account summary redesign
+- MER-1333 — export improvements
