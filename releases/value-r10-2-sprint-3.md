@@ -35,3 +35,4 @@ Jira sprint carrying 37 issue(s).
 - MER-831 — Deployment (Dev)-Blanks observed in CST when criteria is deleted from a product group and another criteria is added
 - MER-832 — Onboarding- Maynak-Onboarding the testing team
 - MER-833 — Onboarding- Sanchita-Onboarding the testing team
+- MER-835 — Filtering by Product Name in Customer POV -Test Case Creation-Test Case Creation
