@@ -21,3 +21,4 @@ Jira sprint carrying 33 issue(s).
 - MER-20 — UI: on selected template table to load with new template json
 - MER-21 — UI: on selected template table to load with new template json
 - MER-22 — DB & BE: create table  for  saving templates and stored procedure for get template list and save new template
+- MER-23 — UI: new dropdown in scenario analysis screen for selecting different alignment template
