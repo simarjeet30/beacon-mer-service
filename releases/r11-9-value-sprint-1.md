@@ -1,0 +1,51 @@
+# R11.9 VALUE Sprint 1
+
+Jira sprint carrying 47 issue(s).
+
+- MER-1314 — VAPT Security issue resolution ( UI Library Updates)
+- MER-1315 — VAPT Security issue resolution ( BE Library Updates)
+- MER-1316 — VAPT Security issue resolution ( URL Sanitization)
+- MER-1317 — VAPT Library Update ( AMI Library Updates)
+- MER-1319 — UI - view by market
+- MER-1320 — Business Logic for market agggregation rules - view by market
+- MER-1321 — Stored Procedure Changes - Market Aggregation
+- MER-1322 — view by market-Api Changes
+- MER-1323 — UX - contract and alignment setup flow
+- MER-1324 — DB Table Creation - Contract Alignment Scenario
+- MER-1325 — Stored Procedure Changes - Contract Alignment Scenario
+- MER-1326 — API Changes - Contract Alignment Scenario
+- MER-1327 — UI Changes - Contract Alignment Scenario Screen
+- MER-1328 — API Changes - Status API WebSocket Migration
+- MER-1329 — Business logic for ppd and cst metrics calculations
+- MER-1330 — Stored Procedure Changes - PPD Metrics
+- MER-1331 — API Changes - PPD Metrics
+- MER-1332 — UI Changes - PPD Metrics Display
+- MER-1340 — UI Changes - Product Group Sequencing
+- MER-1341 — Stored Procedure Changes - CST Product Filtering
+- MER-1342 — API Changes - CST Product Filtering
+- MER-1343 — UI Changes - CST Product Filtering
+- MER-1350 — Stored Procedure Changes - Product Group Sequencing
+- MER-1351 — API Changes - Product Group Ordering
+- MER-1379 — Verify navigation to Customer POV screen
+- MER-1380 — Verify existing scenario navigation
+- MER-1381 — Verify Alignment dropdown in Customer POV Screen
+- MER-1382 — Verify changing Alignment in Customer POV Screen.
+- MER-1383 — Verify default Alignment in Customer POV Screen.
+- MER-1384 — Verify Discount (%) input in Customer POV
+- MER-1385 — Verify decimal Discount in Customer POV
+- MER-1386 — Verify zero Discount in Customer POV Screen
+- MER-1387 — Verify maximum Discount in Customer POV
+- MER-1388 — Negative Discount validation  Enter in Customer POV
+- MER-1389 — Verify Potential Product dropdown
+- MER-1390 — Verify Market Share update
+- MER-1391 — Verify Total Market Share
+- MER-1392 — Verify Product level calculations
+- MER-1393 — Verify Total row calculation
+- MER-1394 — Verify Reset Scenario Data
+- MER-1395 — Verify Reset Filters
+- MER-1396 — Verify Copy Scenario
+- MER-1397 — Verify Copy after Reset
+- MER-1398 — Verify Old Scenario in Customer POV
+- MER-1399 — Verify Account dropdown
+- MER-1400 — Verify Contract Structure Template
+- MER-1401 — Verify Additional Scenarios from the UI
