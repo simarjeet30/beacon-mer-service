@@ -7,3 +7,4 @@ Jira sprint carrying 6 issue(s).
 - MER-43 — PPD metric additions for both bucket and product level
 - MER-44 — RPF Outputs
 - MER-48 — Feedback points of Account deepdive, current alignment, PPD popup changes
+- MER-50 — Select Contract Structure template pop up - Copy functionality
