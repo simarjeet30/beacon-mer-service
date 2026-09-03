@@ -29,3 +29,4 @@ Jira sprint carrying 50 issue(s).
 - MER-355 — UI Issues | WAC Screen
 - MER-356 — Search Functionality missing in the Landing screen
 - MER-359 — UI Issues | LandingScreen
+- MER-360 — Negative WAC % is not captured in the WAC History
