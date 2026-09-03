@@ -11,3 +11,4 @@ Jira sprint carrying 20 issue(s).
 - MER-1207 — Accounts not populating on grid- Create Scenario.
 - MER-1259 — Existing Bug -Store all the data related to scenario in interim table for alignments and compitator_data_config
 - MER-1269 — Existing Bug | Not able to download File in Scenario Attachement
+- MER-1275 — Existing Bug - When user is entering duplicate party id in custom scenario, it should not allow user and should display error e.g. 'Party ID is already added'.
