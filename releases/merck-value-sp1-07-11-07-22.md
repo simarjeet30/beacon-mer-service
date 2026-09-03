@@ -7,3 +7,4 @@ Jira sprint carrying 33 issue(s).
 - MER-3 — UI : Design and functional changes - Add the tiered market share template in select contract structure template
 - MER-4 — DB : DB changes - Adding column and inserting new values.
 - MER-5 — UI & DB : Changes for Apply and Save Template button logic for tiered market share
+- MER-6 — UI & DB: Changes in scenario analysis page - Calculation
