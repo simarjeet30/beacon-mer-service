@@ -17,3 +17,4 @@ Jira sprint carrying 37 issue(s).
 - MER-656 — User Stories / Technical Stories -  contract comparison should cascade over to Account Summary
 - MER-658 — High Level Requirements - contract comparison should cascade over to Account Summary
 - MER-662 — User Stories / Technical Stories - Blanks observed in CST when criteria is deleted from a product group and another criteria is added
+- MER-681 — High Level Requirements - Expand columns to view the product
