@@ -3,3 +3,4 @@
 Jira sprint carrying 50 issue(s).
 
 - MER-285 — Add Contract Template
+- MER-289 — Modal popup with Div and Grid with textbox and dropdown
