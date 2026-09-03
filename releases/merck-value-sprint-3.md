@@ -45,3 +45,4 @@ Jira sprint carrying 50 issue(s).
 - MER-377 — Add a meaningful message for Delete Criteria Pop up and update incorrect header name
 - MER-378 — UI Issues | Contract Structures
 - MER-379 — Add product details doesn't gets cleared
+- MER-381 — Grid of Accounts Vic Type with Action Button of Edit sites & volumes
