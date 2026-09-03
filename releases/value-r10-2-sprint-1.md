@@ -32,3 +32,4 @@ Jira sprint carrying 37 issue(s).
 - MER-739 — Analysis & Low Level Design - Contract Structures - Save as Template
 - MER-742 — High Level Requirements
 - MER-743 — User Stories / Technical Stories
+- MER-744 — Analysis & Low Level Design(POC for Copying filtered Data) - Missing in Customer POV
