@@ -28,3 +28,4 @@ Jira sprint carrying 47 issue(s).
 - MER-1351 — API Changes - Product Group Ordering
 - MER-1379 — Verify navigation to Customer POV screen
 - MER-1380 — Verify existing scenario navigation
+- MER-1381 — Verify Alignment dropdown in Customer POV Screen
