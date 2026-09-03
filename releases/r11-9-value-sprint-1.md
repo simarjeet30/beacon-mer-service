@@ -16,3 +16,4 @@ Jira sprint carrying 47 issue(s).
 - MER-1326 — API Changes - Contract Alignment Scenario
 - MER-1327 — UI Changes - Contract Alignment Scenario Screen
 - MER-1328 — API Changes - Status API WebSocket Migration
+- MER-1329 — Business logic for ppd and cst metrics calculations
