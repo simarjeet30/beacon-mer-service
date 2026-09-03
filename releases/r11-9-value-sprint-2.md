@@ -18,3 +18,4 @@ Jira sprint carrying 20 issue(s).
 - MER-1362 — Stored Procedure Changes - Discount Calculations
 - MER-1363 — API Changes - Discount Services
 - MER-1364 — UI - Custom discounts
+- MER-1409 — Verify Financial Table updates based on Cascaded Filters
