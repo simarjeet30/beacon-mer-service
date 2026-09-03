@@ -26,3 +26,4 @@ Jira sprint carrying 33 issue(s).
 - MER-25 — DB : Adding new market into db and insert values into db table
 - MER-26 — Load prod data on stage
 - MER-27 — Revisit KTs
+- MER-28 — Remove VBC contract type from create scenario page UI
