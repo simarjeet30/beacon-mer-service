@@ -13,3 +13,4 @@ Jira sprint carrying 20 issue(s).
 - MER-1269 — Existing Bug | Not able to download File in Scenario Attachement
 - MER-1275 — Existing Bug - When user is entering duplicate party id in custom scenario, it should not allow user and should display error e.g. 'Party ID is already added'.
 - MER-1288 — Existing Bug | Regression | Page Refresh on Customer POV Screen Redirects to Landing Page Without URL Update
+- MER-1290 — UAT | Discrepancy In contract period date
