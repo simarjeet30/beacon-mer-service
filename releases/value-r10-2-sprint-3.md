@@ -30,3 +30,4 @@ Jira sprint carrying 37 issue(s).
 - MER-826 — Deployment (Dev)-When we change the End Date in the calendar then changed  month next to changed date becomes disabled and user doesn't have option to select default date again
 - MER-827 — UI Build-Blanks observed in CST when criteria is deleted from a product group and another criteria is added- Part - 2
 - MER-828 — API Build-Blanks observed in CST when criteria is deleted from a product group and another criteria is added - Part - 2
+- MER-829 — Unit Testing-Blanks observed in CST when criteria is deleted from a product group and another criteria is added
