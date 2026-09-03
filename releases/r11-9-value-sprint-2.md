@@ -11,3 +11,4 @@ Jira sprint carrying 20 issue(s).
 - MER-1338 — API Changes - Cascading Filters
 - MER-1339 — UI Changes - Cascading Filters & Reset Filters
 - MER-1357 — UX - customer pov enhancements
+- MER-1358 — Business Logic – Alignment Potential MS% Update Rules and product discount calculations
