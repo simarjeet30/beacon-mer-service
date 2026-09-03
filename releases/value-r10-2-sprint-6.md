@@ -10,3 +10,4 @@ Jira sprint carrying 20 issue(s).
 - MER-1201 — Existing Bug- Partially Fixed-When we change the account on the account summary then CST, Contract Offered and Alignment should be as per the new account and should not retain the existing one
 - MER-1207 — Accounts not populating on grid- Create Scenario.
 - MER-1259 — Existing Bug -Store all the data related to scenario in interim table for alignments and compitator_data_config
+- MER-1269 — Existing Bug | Not able to download File in Scenario Attachement
