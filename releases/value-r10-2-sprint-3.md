@@ -12,3 +12,4 @@ Jira sprint carrying 37 issue(s).
 - MER-808 — Deployment (Dev)-Contract Period should not include day.  Currently it shows 2023-08-01 - 2024-07-01.
 - MER-809 — API Build-Need Product Group & Specialty in Export
 - MER-810 — Unit Testing-Need Product Group & Specialty in Export
+- MER-811 — Deployment (Dev)-Need Product Group & Specialty in Export
