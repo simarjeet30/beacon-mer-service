@@ -17,3 +17,4 @@ Jira sprint carrying 29 issue(s).
 - MER-778 — API - Combination of multiple Performance measures under a criteria
 - MER-779 — UI Build- Filtering by Product Name in Customer POV
 - MER-780 — Unit Testing- Filtering by Product Name in Customer POV
+- MER-781 — Deployment (Dev)- Filtering by Product Name in Customer POV
