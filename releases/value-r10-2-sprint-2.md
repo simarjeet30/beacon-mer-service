@@ -9,3 +9,4 @@ Jira sprint carrying 29 issue(s).
 - MER-757 — Analysis & Low Level Design - Combination of Multiple performance measures
 - MER-771 — UI - Combination of multiple Performance measures under a criteria
 - MER-772 — API - Combination of multiple Performance measures under a criteria
+- MER-773 — UI - Combination of multiple Performance measures under a criteria
