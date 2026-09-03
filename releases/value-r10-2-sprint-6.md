@@ -20,3 +20,4 @@ Jira sprint carrying 20 issue(s).
 - MER-1294 — UAT | Customer POV - II
 - MER-1295 — Customer POV-3
 - MER-1296 — Existing bug- Check Date Format Throughout, EST Expected
+- MER-1297 — Previously selected date range displayed on Account Summary screen after discarding changes(IST)
