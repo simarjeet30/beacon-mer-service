@@ -24,3 +24,4 @@ Jira sprint carrying 50 issue(s).
 - MER-347 — Future WAC column should be a textbox
 - MER-349 — UX/UI Required Changes- Feedbacks(Internal demo - 09/05/2024)
 - MER-350 — Filter modal doesn't fit the screen
+- MER-351 — Default WAC dropdown missing from GI-WAC screen
