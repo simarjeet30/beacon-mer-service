@@ -9,3 +9,4 @@ Jira sprint carrying 20 issue(s).
 - MER-1336 — Identify deliverables
 - MER-1337 — Stored Procedure Changes - Cascading Filters
 - MER-1338 — API Changes - Cascading Filters
+- MER-1339 — UI Changes - Cascading Filters & Reset Filters
