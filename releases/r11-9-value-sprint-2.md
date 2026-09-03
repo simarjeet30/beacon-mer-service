@@ -16,3 +16,4 @@ Jira sprint carrying 20 issue(s).
 - MER-1360 — API Changes - Customer POV Updates
 - MER-1361 — UI Changes - Customer POV Enhancements
 - MER-1362 — Stored Procedure Changes - Discount Calculations
+- MER-1363 — API Changes - Discount Services
