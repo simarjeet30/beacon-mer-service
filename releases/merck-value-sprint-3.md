@@ -49,3 +49,4 @@ Jira sprint carrying 50 issue(s).
 - MER-382 — Manually Create Accounts and Volume
 - MER-383 — MergeAccounts
 - MER-420 — Product grid not readable
+- MER-421 — WAC Tab | API call doesn't happen when user closes the History modal once
