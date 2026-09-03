@@ -9,3 +9,4 @@ Jira sprint carrying 20 issue(s).
 - MER-1149 — Existing bug-Current Alignment Update- Data is reflected for old base alignment with column updated as for Current base alignment.
 - MER-1201 — Existing Bug- Partially Fixed-When we change the account on the account summary then CST, Contract Offered and Alignment should be as per the new account and should not retain the existing one
 - MER-1207 — Accounts not populating on grid- Create Scenario.
+- MER-1259 — Existing Bug -Store all the data related to scenario in interim table for alignments and compitator_data_config
