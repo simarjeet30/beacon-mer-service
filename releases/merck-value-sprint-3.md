@@ -28,3 +28,4 @@ Jira sprint carrying 50 issue(s).
 - MER-354 — WAC History doesn't display the correct user name
 - MER-355 — UI Issues | WAC Screen
 - MER-356 — Search Functionality missing in the Landing screen
+- MER-359 — UI Issues | LandingScreen
